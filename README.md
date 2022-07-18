@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @kittipong kraseatho
 - 🙏 I,m BiG_MaTiNo 🙏
-<!--- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+
+<a href="https://app.daily.dev/MaTiNo"><img src="https://api.daily.dev/devcards/357a874e720f43809959dda7fab28e21.png?r=epp" width="400" alt="Kittipong_MaTiNo's Dev Card"/></a>
 
 
 <!---
