@@ -38,7 +38,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/kittipongkraseatho/kittipongkraseatho/blob/output/snake.svg" alt="Snake animation" />
-
-###
