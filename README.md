@@ -36,4 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 </div>
 
-###
+<div align="center">
+  <a href="https://app.daily.dev/matino"><img src="https://api.daily.dev/devcards/v2/vTjnrzVwpE5zabgFyUCty.png?type=default&r=qzo" width="356" alt="Kittipong_MaTiNo's Dev Card"/></a>
+</div>
