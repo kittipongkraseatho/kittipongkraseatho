@@ -105,11 +105,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kittipongkraseatho/kittipongkraseatho/output/snake.svg" alt="Snake animation" />
-
-###
 <div align="center">
   <a href="https://app.daily.dev/matino"><img src="https://api.daily.dev/devcards/v2/vTjnrzVwpE5zabgFyUCty.png?type=default&r=qzo" width="356" alt="Kittipong_MaTiNo's Dev Card"/></a>
 </div>
