@@ -8,13 +8,6 @@
 
 <br />
 
-### <div align="left">🌐 My Portfolio</div>
-<p align="left">
-  <a href="https://kittiphong-protfolio-42rk.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-⚡-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
 ###
 
 <div align="left">
